@@ -1,0 +1,14 @@
+#+TITLE: Project Euler Solutions
+#+OPTIONS: toc:nil
+
+* Project Euler Solutions
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
+
+* Overview
+I have begun working to solve the programming problems of [[https://projecteuler.net][Project
+Euler]]. My solutions are available in this repository. I use a variety
+of languages; there are language specific folders in each problem
+folder. This will be an ongoing project and the readme may be updated
+or extended in the future.
